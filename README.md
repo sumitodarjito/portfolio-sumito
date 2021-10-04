@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-  Project Portfolio untuk final project Hactkiv8. Dibuat dengan HTML. CSS, dan Bootsrtap 5. Portfolio ini di deply ke server heroku.
+  Project Portfolio untuk final project Hactkiv8. Dibuat dengan HTML. CSS, dan Bootsrtap 5. Portfolio ini di deply ke server heroku(https://portfolio-sumito.herokuapp.com/).
 </td>
 </tr>
 </table>
